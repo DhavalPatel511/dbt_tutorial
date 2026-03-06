@@ -8,3 +8,4 @@ dependencies = [
     "dbt-core>=1.11.7",
     "dbt-databricks>=1.10.9",
 ]
+
